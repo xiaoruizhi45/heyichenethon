@@ -1,3 +1,5 @@
+#About me
+
 - 👋 Hi, I’m @heyichenethon/CGT
 - 👀 I’m interested in programming in Python, but maybe I'm poor at it.
 - 🌱 I’m currently learning Maths to make games.
